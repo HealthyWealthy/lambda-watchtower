@@ -1,0 +1,11 @@
+{
+  "targets": [
+    {
+      "url": "https://www.healthiq.com",
+      "name": "Health IQ main website"
+    }
+  ],
+  "namespace": "Watchtower",
+  "timings": ["readable", "total"],
+  "timeout": 10000
+}
